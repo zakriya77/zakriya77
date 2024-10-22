@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm Zohaib Nawaz!
 
 🎨 Web Developer | MERN Stack Enthusiast
 💻 JavaScript Ninja | React Expert | ScreenSync Creator
