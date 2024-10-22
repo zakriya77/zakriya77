@@ -1,5 +1,5 @@
-<h1 align="center">Greetings 👋, I'm Zohaib Nawaz</h1>
-<h3 align="center">A Creative frontend developer from Lahore, Pak.</h3>
+<h1>Greetings 👋, I'm Zohaib Nawaz</h1>
+<h3>A Creative frontend developer from Lahore, Pak.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakriya77&label=Profile%20views&color=0e75b6&style=flat" alt="zakriya77" /> </p>
 
