@@ -1,6 +1,6 @@
-[![MasterHead]([https://www.bing.com/images/blob?bcid=qERSv3eQxacHZg](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NjkxNTAsIm5iZiI6MTcyOTY2ODg1MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIzVDA3MzQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyNGJlYjhiNTA4OTg2NDM3MWE5YTBhMDNmYTFhMjIxOTU3MmUyNWEyOThkMTQxMWRjNzZiYmY3OGMyOTlmNmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.96FaiGVN8kwR9JZO5okzDPoV1eDNLhQeAof02-NS4p8)
-)](https://rishavchanda.io
-)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <h1>Greetings 👋, I'm Nohaib Zawaz</h1>
 <h3>A Creative frontend developer from Mars.</h3>
